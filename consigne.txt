@@ -1,0 +1,10 @@
+  c - IF ALL IS VALID REPLACE THE FORM WITH 
+    {{name}}, your message {{message}} has been sent. 
+    You will be contact soon on the mail address {{email}} 
+    about {{subject}} 
+    AND REPLACE THE FORM WITH SUCCESS !   
+
+3 - link the menu to the good sections 
+
+4 - apply SMOOTHSCROLL
+
